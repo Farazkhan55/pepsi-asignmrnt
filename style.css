@@ -1,0 +1,126 @@
+* {
+    background-color: blue;
+
+}
+
+/* .pepsivid{
+    margin-top: 25px;
+    max-width: 25px;
+} */
+.nav-main {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    position: sticky;
+    top: 0%;
+}
+
+.left-nav {
+    width: 70%;
+    display: flex;
+}
+
+.left-nav>img {
+    height: 80px;
+    weight: 80px;
+
+
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    gap: 70px;
+    list-style: none;
+}
+
+
+.right-nav {
+    width: 30%;
+    margin-top: 12px;
+}
+
+.btn-big {
+    margin-left: 200px;
+    margin-top: 15px;
+    border-radius: 50px;
+    padding: 5px;
+    color: white;
+    border: 2px solid white;
+
+
+}
+
+.main {
+    width: 100%;
+}
+
+.head {
+    text-align: center;
+}
+
+.followbtn {
+    align-items: center;
+    text-align: center;
+}
+
+.btn {
+    width: 5%;
+
+}
+
+.yearppic {
+    height: 50px;
+}
+
+.imageyearofpepsi {
+    /* height: 1000px; */
+}
+
+.dinnerpic {
+    /* width: 200px; */
+}
+
+.peragraph {
+    text-align: center;
+    background: #000;
+}
+
+.unlockapple {
+    /* width: 200px; */
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card>div>img {
+    width: 200px;
+    height: 200px;
+}
+
+.headstay {
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 50px 0px;
+    /* height: 80px; */
+    /* width: 900px; */
+}
+
+.footer {
+
+    display: flex;
+    flex: end;
+}
+
+.icons {
+    text-align: justify;
+
+}
